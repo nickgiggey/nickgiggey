@@ -1,5 +1,10 @@
+<h3 align=center>Hello World, it's me!</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickgiggey&layout=compact)](https://github.com/nickgiggey/github-readme-stats)
+
 [![nickgiggey's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickgiggey&show_icons=true&theme=onedark)](https://github.com/nickgiggey/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ### Hi there 👋
 
 <!--
