@@ -1,3 +1,5 @@
+[![nickgiggey's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickgiggey&show_icons=true&theme=onedark)](https://github.com/nickgiggey/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
